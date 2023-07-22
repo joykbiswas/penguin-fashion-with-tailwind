@@ -1,0 +1,20 @@
+.nav{
+    /* text-align: center; */
+}
+.logo img{
+    /* justify-content: center; */
+    /* margin: auto; */
+}
+.nav-item{
+    /* margin: 5px; */
+    
+}
+.nav-item li{
+    /* padding: 8px;
+    font-size: 16px; */
+}
+.items-center{
+   align-items: center;
+   justify-content: center;
+
+}
